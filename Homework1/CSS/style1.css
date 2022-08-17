@@ -1,0 +1,12 @@
+table {
+    width:fit-content;
+    font-size: 19px;
+
+}
+    table thead {
+        font-size: 35px;
+    }
+    	table tbody td {
+    		padding: 5px;
+            text-align: center;
+    	}
